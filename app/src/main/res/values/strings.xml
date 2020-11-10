@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Camera2ZoomRationRange</string>
+    <string name="camera_request_rationale">Camera app requires camera acess</string>
+</resources>
